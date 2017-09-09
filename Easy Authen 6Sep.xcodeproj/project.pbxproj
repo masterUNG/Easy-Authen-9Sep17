@@ -12,6 +12,7 @@
 		C4D07C581F63D68C00A75E33 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4D07C561F63D68C00A75E33 /* Main.storyboard */; };
 		C4D07C5A1F63D68C00A75E33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4D07C591F63D68C00A75E33 /* Assets.xcassets */; };
 		C4D07C5D1F63D68C00A75E33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4D07C5B1F63D68C00A75E33 /* LaunchScreen.storyboard */; };
+		C4D07C651F63D75500A75E33 /* maria-darii-37401.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C4D07C641F63D75500A75E33 /* maria-darii-37401.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C4D07C591F63D68C00A75E33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4D07C5C1F63D68C00A75E33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C4D07C5E1F63D68C00A75E33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4D07C641F63D75500A75E33 /* maria-darii-37401.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "maria-darii-37401.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				C4D07C521F63D68C00A75E33 /* AppDelegate.swift */,
+				C4D07C641F63D75500A75E33 /* maria-darii-37401.jpg */,
 				C4D07C541F63D68C00A75E33 /* ViewController.swift */,
 				C4D07C561F63D68C00A75E33 /* Main.storyboard */,
 				C4D07C591F63D68C00A75E33 /* Assets.xcassets */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C4D07C651F63D75500A75E33 /* maria-darii-37401.jpg in Resources */,
 				C4D07C5D1F63D68C00A75E33 /* LaunchScreen.storyboard in Resources */,
 				C4D07C5A1F63D68C00A75E33 /* Assets.xcassets in Resources */,
 				C4D07C581F63D68C00A75E33 /* Main.storyboard in Resources */,
