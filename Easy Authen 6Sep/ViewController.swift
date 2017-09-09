@@ -42,6 +42,7 @@ class ViewController: UIViewController {
         
         
         if (resultString == nil) {
+            
         
             print("Have Nil")
             messageLabel.text = alertArray[0]
